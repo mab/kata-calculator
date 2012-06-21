@@ -9,7 +9,7 @@
 
   <modules>
     <module>calculator-core</module>
-    <module>calculator-springroo</module>
+    <module>calculator-javafx</module>
   </modules>
 
   <properties>
